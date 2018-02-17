@@ -1,0 +1,69 @@
+town
+post-town
+post town
+village
+settlement
+head settlement
+towns
+township
+county
+capital
+city
+country
+nation
+race of people
+race of Indians
+Indian nation
+Indians
+Indian tribe
+place
+port
+port of entry
+harbour
+tract 
+jursidiction
+province
+llanura (plain)
+alcaldia mayor
+street
+territory
+division of territory
+fort
+parish
+corregimiento
+mines
+an establishment
+garrison
+mission
+kingdom
+colony
+hamlet
+
+channel
+bluff
+desert
+extremity
+water
+marsh
+cordillera
+pass
+river
+course
+lake
+stream
+creek
+bay
+volcano
+mountains
+point
+island
+islands
+isle
+isles
+ledge
+rock
+fall of the river
+fall?
+cape
+valley
+sierras
