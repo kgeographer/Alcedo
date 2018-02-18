@@ -38,7 +38,10 @@ mission
 kingdom
 colony
 hamlet
+intendancy
 
+whirlpool
+spot of ground
 channel
 bluff
 desert
