@@ -1,0 +1,16 @@
+Maps of the Alcedo period
+
+South America	Faden, William, 1750?-1836	1807	An enormous map of South America, rivaled only by Arrowsmith's map of 1810.
+
+A new and elegant general atlas, comprising all the new discoveries, to the present time	Arrowsmith, Aaron	1812
+
+Gazetteers
+The American Gazetteer...	Jedidiah Morse	1797
+
+
+Geoeditor comments
+single key shorthand between pan, draw rect, line, point (or shift to get pan from a draw status)
+After entering a feature, no feedback
+'You' link inoperable
+Need to escape after laying down a feature & it's wrong - delete + confirm too much
+

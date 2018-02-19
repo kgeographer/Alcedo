@@ -1,72 +1,22 @@
-town
-post-town
-post town
-village
-settlement
-head settlement
-towns
-township
-county
-capital
-city
-country
-nation
-race of people
-race of Indians
-Indian nation
-Indians
-Indian tribe
-place
-port
-port of entry
-harbour
-tract 
-jursidiction
-province
-llanura (plain)
-alcaldia mayor
-street
-territory
+['bay ','capital ','city ','colony ','cordillera ','country ','county ','creek ','fall of ','hamlet ','harbour ','jursidiction and alcaldia mayor ','kingdom ','lake ','llanura ','marsh ','mountain ','nation ','parish ','pass ','passage ','place ','point ','port ','post-town ','province ','race of ','river ','rock ','settlement ','spot of ground ','stream ','territory ','town ','township ','tract  ','valley ','village ','volcano ','water ','whirlpool ']
+
+
+['an intendancy ','an island ','an (extremity (and (cape|point))?) ','an isle ']
+
+['mountains ','islands ','isles ']
+
+the (head settlement)
+
+
+(channel (or strait)?)
+(fort(ress)?)
+(cape (or point)?)
+
+************
+a nation of [*] Indians
 division of territory
-fort
-parish
-corregimiento
 mines
-an establishment
 garrison
 mission
-kingdom
-colony
-hamlet
-intendancy
-
-whirlpool
-spot of ground
-channel
 bluff
 desert
-extremity
-water
-marsh
-cordillera
-pass
-river
-course
-lake
-stream
-creek
-bay
-volcano
-mountains
-point
-island
-islands
-isle
-isles
-ledge
-rock
-fall of the river
-fall?
-cape
-valley
-sierras
